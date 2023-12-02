@@ -1,4 +1,4 @@
-# SAP HANA Connector Utility for Redwing Vector gRPC
+# SAP HANA Connector Utility | Redwing Vector gRPC
 
 ## Overview
 
